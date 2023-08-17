@@ -46,6 +46,6 @@ push_to_hub = False
 mlm =False
 
 ## Generate
-max_new_tokens = 50
+max_new_tokens = 120
 temperature = 0.5
 do_sample = False

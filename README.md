@@ -1,7 +1,8 @@
 # The Office Reboot: LLM cut
 ## LLM model fine-trained on the Office (US) transcripts.
 
- Use Bloom base model with qlora for fine-tuning and huggingface to store the model and dataset.
+ Use Bloom base model with qlora for fine-tuning and huggingface to store/serve the model and dataset.
+ Finte-tuning on a T4 GPU took ~2.5 hours.
 
 ## Output:
 

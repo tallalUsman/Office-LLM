@@ -1,4 +1,5 @@
-# Office-LLM: LLM model fine-trained on the Office (US) transcripts.
+# The Office Reboot: LLM cut
+## LLM model fine-trained on the Office (US) transcripts.
 
  Use Bloom base model with qlora for fine-tuning and huggingface to store the model and dataset.
 

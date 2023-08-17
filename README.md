@@ -3,4 +3,4 @@
 
 
 
-![alt text](https://github.com/tallalUsman/deeplearning-mlops/blob/main/images/oops.jpeg?raw=true)
+![alt text](https://github.com/tallalUsman/Office-LLM/blob/main/images/oops.jpeg?raw=true)
